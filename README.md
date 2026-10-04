@@ -1,5 +1,6 @@
 # nba-shot-probability-xgboost
 NBA Shot Prediction Model (XGBoost)
+
 An end-to-end machine learning pipeline built in R to estimate the probability of shot success (make_prob) for NBA field goal attempts. Developed as part of the OKC Thunder Analyst Intern technical project, this repository contains the complete modeling pipeline, feature engineering logic, model evaluation, and final test set predictions.
 
 Performance Summary:
